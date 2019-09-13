@@ -4,4 +4,4 @@ This is an application for demo Istio using the ServiceMeshOperator (based on Ma
 All the envoy proxy are auto-injected. 
 The readiness probe was causing an issue.
 
-Many thanks for @gbaufake for his PR on RedHat Tutorial.
+Many thanks for @gbaufake for his PR on RedHat Tutorial. https://github.com/gbaufake/istio-tutorial.git
